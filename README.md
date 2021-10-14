@@ -1,5 +1,6 @@
 # SpringBoot 개념 및 활용  
-
+- SpringBoot 기초 사용 방법과 그로 인한 활용까지 관리하는 프로젝트
+  
 ## 기능
 기술 스택 : java11, SpringBoot 2.5.5, JPA, gradle, Junit 등등  
 
