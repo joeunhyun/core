@@ -51,5 +51,6 @@
   미루고 싶다. 최악의 경우 할인을 적용하지 않을 수 도 있다. (미확정)
 
 ![image](https://user-images.githubusercontent.com/83958409/137315081-e7c46c87-d21b-4cef-92e4-6dd55de75adc.png)
+![img.png](img.png)
 
 
